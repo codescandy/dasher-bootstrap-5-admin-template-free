@@ -36835,43 +36835,6 @@ text {
   transition: 300ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.listjs-sorter {
-  position: relative;
-  cursor: pointer;
-  padding-right: 1.25rem;
-}
-
-.listjs-sorter:after {
-  font-weight: normal;
-  line-height: 1;
-  content: "\eb5a";
-  font-family: "tabler-icons";
-  color: var(--ds-gray-400);
-  font-size: 10px;
-  position: absolute;
-  margin-left: 10px;
-  top: 50%;
-  transform: translateY(-50%);
-}
-
-.listjs-sorter.asc {
-  color: var(--ds-gray-800);
-}
-.listjs-sorter.asc:after {
-  content: "\ea25";
-  font-family: "tabler-icons";
-  color: var(--ds-gray-800);
-}
-
-.listjs-sorter.desc {
-  color: var(--ds-gray-800);
-}
-.listjs-sorter.desc:after {
-  content: "\ea16";
-  font-family: "tabler-icons";
-  color: var(--ds-gray-800);
-}
-
 [data-bs-theme=dark] {
   --ds-primary-lighter: #007867;
   --ds-danger-lighter: #b71d18;

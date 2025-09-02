@@ -47,16 +47,12 @@
     "@popperjs/core": "^2.11.8",
     "@tabler/icons": "^2.45.0",
     "@tabler/icons-webfont": "^2.45.0",
-    "@yaireo/tagify": "^4.19.1",
     "apexcharts": "^3.52.0",
     "bootstrap": "^5.3.3",
     "choices.js": "^10.2.0",
     "jsvectormap": "^1.5.3",
-    "list.js": "^2.3.1",
-    "list.pagination.js": "^0.1.1",
     "simplebar": "^6.2.5",
     "sticky-sidebar": "^3.3.1",
-    "swiper": "^11.2.1",
-    "tippy.js": "^6.3.7"
+    "swiper": "^11.2.1"
   }
 }
